@@ -1,0 +1,77 @@
+# Profile section
+profile:
+  first_name: Daniel
+  last_name: Loza
+  picture: static/img/pp.jpg
+  contact: 
+    phone: (418) 184 - 5161
+    address_one: Dolores Hidalgo, Guanajuato
+    address_two: 
+  email: lozacruzvd@gmail.com
+  description: Soy desarrollador Java, amplia experencia desarrollando en lenguajes como Java, JavaScript,
+   desarrollo para aplicaciones móviles en Android (Java, Kotlin). En lenguaje para el manejo de Base de Datos 
+   PostgreSQL, Microsoft SQL Server, MySQL. Actualmente desarrollo  microserivicios API REST FULL bajo los 
+   estandares de la Condusef.
+  
+        
+# Social section
+social:
+  website: 
+  github: https://github.com/danielloza
+  facebook: https://www.facebook.com/daniel.loza.566/
+  instagram: https://www.instagram.com/_dloza/
+
+# Experience section
+experience:
+  item0:
+    position: Desarrollador Jr.
+    company: SOMA Tecnologia y Medios de Pago
+    from: Enero 2019
+    to: Present
+    description: >
+     SOMA Tecnologia y Medios de Pago. Es una empresa formada por un grupo de profesionales en el
+      sector tecnológico y financiero (Intermediarios Financieros No Bancarios), especializado en micro
+      finanzas, que decidió crear una empresa para brindar soluciones al sector financiero (Non-Banking
+      Intermediarios Financieros) a través de una plataforma tecnológica robusta que incluye los mejores 
+      negocios prácticas para el sector.
+    link: http://www.somatecnologia.com.mx/
+
+# Education section
+education:
+  item1:
+    institution: Universidad Tecnologica del Norte de Guanajuato
+    program: Ing. Tecnologías de la Información y Comunicación
+    description: Licenciatura enfoca a la adminisración de proyectos de TI
+    from: Agosto 2019
+    to: Agosto 2021
+  item2:
+    institution: Universidad Tecnologica del Norte de Guanajuato
+    program: Sistemas Informáticos
+    description: TSU Area Sistemas Informáticos 
+    from: Agosto 2016
+    to: Julio 2018
+  
+
+# Skills section
+tools:
+  # Consider that the following are fa icons:
+  - java
+  - python
+  - github
+  - slack
+  - trello
+  - markdown
+  - html5
+  - bootstrap
+  - google
+  - git
+  - mantisBt
+
+extra_skills:
+  - APIs y Desarrollo WEB
+  - Desarrollo Móviles (Java, Kotlin)
+  - Consumo de  API`s Java Spring
+  - Firebase
+  - Swift 
+  - Kotlin
+
